@@ -1,0 +1,32 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    background-color: #231F20;
+
+  }
+
+h1{
+    margin-top: 50px;
+    color: #F4FAF4;
+}
+
+span{
+    color: #944AFF;
+}
+
+label{
+    color: #944AFF;
+}
+.form_pading{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.form-group{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn{
+    background-color: #944AFF;
+}

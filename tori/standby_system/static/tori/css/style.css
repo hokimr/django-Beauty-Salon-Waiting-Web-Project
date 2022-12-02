@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #F4FAF4;
+}
+  
+
+.logo_img{
+    width: 100%;
+
+}
+
+.display-3{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #231F20;
+    font-weight: bold;
+}
+
+.carousel-item{
+    height: 700px;
+}
+
+.btn{
+    margin-top: 50px;
+    width: 60%;
+    height: 50%;
+    background-color: #231F20;
+}
+
+
+.rigit-box{
+    margin-top: 120px;
+}
+
+
+
+
